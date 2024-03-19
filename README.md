@@ -1,10 +1,11 @@
 # Brainwave App
 
 [![Minhas Habilidades](https://skillicons.dev/icons?i=react,tailwind,js,html,css)](https://skillicons.dev)
+![Preview do App](./src/assets/Brainwave_preview.png)
 
 ## Visão Geral
 
-Este repositório é dedicado ao projeto de desenvolvimento da Lading Page do Brainwave. O Brainwave é uma ferramenta de inteligência artificial imaginária que busca proporcionar uma experiência inovadora e envolvente para os usuários, explorando o potencial da IA em diversas áreas, desde criação de conteúdo até assistência pessoal avançada.
+Este repositório é dedicado ao projeto de desenvolvimento da Lading Page do [Brainwave](https://brainwave-qiv7hxifb-hwgo1s-projects.vercel.app/). O Brainwave é uma ferramenta de inteligência artificial imaginária que busca proporcionar uma experiência inovadora e envolvente para os usuários, explorando o potencial da IA em diversas áreas, desde criação de conteúdo até assistência pessoal avançada.
 
 ## Descrição do Projeto
 
