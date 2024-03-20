@@ -5,7 +5,7 @@
 
 ## Visão Geral
 
-Este repositório é dedicado ao projeto de desenvolvimento da Lading Page do [Brainwave](https://brainwave-qiv7hxifb-hwgo1s-projects.vercel.app/). O Brainwave é uma ferramenta de inteligência artificial imaginária que busca proporcionar uma experiência inovadora e envolvente para os usuários, explorando o potencial da IA em diversas áreas, desde criação de conteúdo até assistência pessoal avançada.
+Este repositório é dedicado ao projeto de desenvolvimento da Lading Page do [Brainwave](https://brainwave-qiv7hxifb-hwgo1s-projects.vercel.app/) ([link alternativo](https://hwgo1.github.io/brainwave-app/)). O Brainwave é uma ferramenta de inteligência artificial imaginária que busca proporcionar uma experiência inovadora e envolvente para os usuários, explorando o potencial da IA em diversas áreas, desde criação de conteúdo até assistência pessoal avançada.
 
 ## Descrição do Projeto
 
